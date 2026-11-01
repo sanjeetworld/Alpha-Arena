@@ -1,0 +1,8 @@
+Selected using training Sharpe ratio: moving_average
+Its holdout total return: 20.06%
+Its holdout Sharpe ratio: 0.696
+Highest holdout Sharpe (descriptive only): moving_average
+Benchmark: equal-weight buy-and-hold across all stocks.
+Data window: first 2500 days (maximum 2500).
+Training/holdout ratio: 70%/30%.
+See five_model_comparison.csv for train and holdout metrics.
